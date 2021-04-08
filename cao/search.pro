@@ -2,6 +2,8 @@ Assemblage
 Composant
 composant_telecharge
 ensemble_moteur
+jetson_nano
+L298N
 Mise_en_plan
 Notices
 plaques
